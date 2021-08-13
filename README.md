@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmeenAttar
-- 👀 I’m interested in ... Drone, Machine Learning & AI, DSA & Web Dev
+- 👀 I’m interested in ... Drones, Machine Learning & AI, DSA & Web Dev
 - 🌱 I’m currently learning ... Web Develpoment.
 - 💞️ I’m looking to collaborate on ... anything I am intrested in...
 - 📫 How to reach me ... www.linkedin.com/in/ameen-attar
