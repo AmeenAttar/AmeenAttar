@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeenAttar
-- 👀 I’m interested in ... Drones, Machine Learning & AI, DSA & Web Dev
-- 🌱 I’m currently learning ... Web Develpoment.
+- 👀 I’m interested in ... Drones, Machine Learning & AI, DSA & Backend Dev
+- 🌱 I’m currently learning ... Golang & Backend Dev.
 - 💞️ I’m looking to collaborate on ... anything I am intrested in...
 - 📫 How to reach me ... www.linkedin.com/in/ameen-attar
 
