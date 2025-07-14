@@ -5,5 +5,3 @@ With experience spanning healthcare, crypto, and robotics, I’ve built scalable
 Outside of work, I enjoy exploring new tech stacks through hands-on, experimental projects — from AI-powered ad creators to smart email agents and voice-based interview bots.
 
 Let’s connect and build what’s next.
-
-📫 linkedin.com/in/ameen-attar
