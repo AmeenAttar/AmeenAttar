@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AmeenAttar
-- 👀 I’m interested in ... Drones, Machine Learning & AI, DSA & Web Dev
-- 🌱 I’m currently learning ... Web Dev & Backend Design.
-- 💞️ I’m looking to collaborate on ... anything I am intrested in...
-- 📫 How to reach me ... www.linkedin.com/in/ameen-attar
+👋 Hi, I’m Ameen — a software engineer and MSCS candidate at Case Western Reserve University, passionate about backend systems, AI, and emerging tech.
 
-<!---
-AmeenAttar/AmeenAttar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With experience spanning healthcare, crypto, and robotics, I’ve built scalable services in Go, crafted ML models for computer vision, and led projects from architecture to deployment. My work includes collaborations with Samsung R&D, national disaster agencies, and fast-paced startups.
+
+Outside of work, I enjoy exploring new tech stacks through hands-on, experimental projects — from AI-powered ad creators to smart email agents and voice-based interview bots.
+
+Let’s connect and build what’s next.
+
+📫 linkedin.com/in/ameen-attar
